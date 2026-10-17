@@ -69,10 +69,9 @@ I primarily work with the MERN Stack and enjoy backend development, system desig
 # 📚 Currently Learning
 
 - Advanced MERN Stack
-- System Design
 - AWS Cloud Services
-- AI & Deep Learning
-- Scalable Backend Architecture
+- System Design
+- Operating System
 
 ---
 
